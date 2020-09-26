@@ -1,41 +1,4 @@
-# peso = int(input("Seu peso: "))
-# tipo = input("l or k ")
 
-# if tipo.upper() == "L":
-#  converted = (peso * 0.45)
-# print(f" Você pesa {converted}kg ")
-# elif tipo.upper() == "K":
-# converted = (peso // 0.45)
-# print(f" Você pesa {converted} lbs")
-
-
-# numbers = [1, 1, 1, 1, 7]
-
-# for x_count in numbers:
-#  output = ""
-# for count in range(x_count):
-#    output += "x"
-# print(output)
-
-
-# numbers = [2, 4, 10, 20, 32, 9, 73, 7, 17]
-# numbers.insert(0, 12)
-# print(numbers)
-"""
-numero = int(input("Escolha um numero "))
-numbers = [20, 10, 12, 12, 10, 42]
-
-if numbers.count(numero):
-    print("Numero aparece mais de uma vez")
-else:
-    print("Numero único")
-"""
-
-# def nome(name):
-#  print(f"Hello {name}")
-
-
-# nome("Lucas")
 
 from bs4 import BeautifulSoup
 
